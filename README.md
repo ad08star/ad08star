@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-- 🔭 I’m currently working on **My personal project**
+- 🔭 I’m currently working on **My personal NEXT.JS project**
 
-- 👯 I’m looking to collaborate on **projects in React**
+- 👯 I’m looking to collaborate on **Projects in React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ad08star](https://github.com/ad08star)
 
