@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">"Crafting beautiful and intuitive user experiences, one line of code at a time."</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th?id=OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
 
 - 🔭 I’m currently working on **My personal project**
 
