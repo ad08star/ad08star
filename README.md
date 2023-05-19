@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">"Crafting beautiful and intuitive user experiences, one line of code at a time."</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"> -->
 
 - 🔭 I’m currently working on **My personal NEXT.JS project**
 
